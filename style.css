@@ -1,0 +1,83 @@
+h1{
+    display: block;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    background-color:rgb(255, 255, 255);
+    border-bottom: 2px solid black;
+}
+nav {
+    border-right: 2px solid black;
+    height: 94%;
+    width: 225px;
+    float: left;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: teal;
+    margin-top: -35px;
+    
+}
+li{
+    margin-bottom: 20px;
+    height: 50px;
+    width:
+}
+#scooter_img{
+    height: 600;
+    width: 1033;
+    margin: 0;
+    border: 2px solid black;
+    display: block;
+    margin-top: -35px;
+}
+.icon{
+    height: 75px;
+    width: 75px;
+}
+
+#myid{
+  
+}
+.myclass{
+
+}
+p{
+    color: black;
+
+}
+html{
+    background-color: white;
+   
+}
+body {
+    margin: 0;
+    height: 100%;
+    font-family: helvetica;
+  }
+  ul{
+      color: black;
+
+  }
+
+  div{
+      display: inline-block;
+      padding-left: 20px;
+      width: 1240px;
+      border: 2px solid black;
+  }
+  footer{
+    color: white;
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+    height: 25px    
+}
+#myid{
+    display: block;
+    color: black;
+    text-align: center;
+    font-size: 23px;
+    background-color:rgb(255, 255, 255);
+    border-bottom: 2px solid black;
+}
+

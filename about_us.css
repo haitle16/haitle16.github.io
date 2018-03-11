@@ -1,0 +1,8 @@
+header{
+    display: block;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    background-color:rgb(255, 255, 255);
+    border-bottom: 2px solid black;
+}
